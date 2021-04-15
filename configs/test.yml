@@ -1,0 +1,19 @@
+application:
+  env: test
+  host: 0.0.0.0
+  port: 8080
+
+mysqldb:
+  ip: 172.22.0.5
+  port: 3306
+  username:
+  password:
+  database: cst_ucenter
+
+mongodb:
+  ip: 172.22.0.7
+  port: 27017
+  username:
+  password:
+  options:
+  database: cst_ucenter
